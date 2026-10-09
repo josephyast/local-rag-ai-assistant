@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+.venv/
+.env
+
+# Data & generated vector store
+*.csv
+chrome_langchain_db/
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
